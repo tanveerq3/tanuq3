@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/tanveer-ahmad--/">
     <img src="https://img.shields.io/badge/LinkedIn-Tanveer%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/tanuq3">
-    <img src="https://img.shields.io/badge/GitHub-tanuq3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/tanveerq3">
+    <img src="https://img.shields.io/badge/GitHub-tanveerq3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
